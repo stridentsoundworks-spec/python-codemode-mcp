@@ -126,7 +126,7 @@ Fields: `tool`, `params`, `timestamp`, `status`, `duration_ms`, `result_preview`
 
 ## Cloudflare Convergence
 
-Cloudflare's Code Mode and this repo arrived at the same architecture independently:
+Cloudflare's Code Mode and this repo arrived at the same architecture, the port wouldnt have been possible without cloudflares initial work
 
 | Cloudflare Code Mode | python-codemode-mcp |
 |---|---|
