@@ -15,6 +15,7 @@ env/
 
 # Logs (generated at runtime)
 logs/
+logs/mcp/tools.jsonl
 
 # Environment / secrets
 .env
