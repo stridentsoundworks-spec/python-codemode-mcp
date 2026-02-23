@@ -2,6 +2,10 @@
 
 > A Python adaptation of the [Code Mode MCP pattern](https://blog.cloudflare.com/code-mode-mcp/) for local agent stacks — built for macOS + iTerm2.
 
+Note:
+This is still work in progress, that being said, have fun :) 
+-T.B.H.
+
 ## The Problem
 
 An LLM controlling a terminal through individual MCP tools looks like this:
