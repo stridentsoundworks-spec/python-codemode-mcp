@@ -186,6 +186,8 @@ No other changes required.
 
 ## Next Steps 
 
+Per Resource Semaphores 
+
 Dynamic Isolates: https://developers.cloudflare.com/workers/runtime-apis/bindings/worker-loader/
 
 Additional Security Hardening 
