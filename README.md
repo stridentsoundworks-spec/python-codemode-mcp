@@ -184,6 +184,12 @@ No other changes required.
 
 ---
 
+## Next Steps 
+
+Dynamic Isolates: https://developers.cloudflare.com/workers/runtime-apis/bindings/worker-loader/
+
+Additional Security Hardening 
+
 ## License
 
 MIT
